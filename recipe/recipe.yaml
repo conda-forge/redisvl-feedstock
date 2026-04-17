@@ -28,7 +28,7 @@ requirements:
     - python >=${{ python_min }}
     - numpy >=1.26.0,<3
     - pyyaml >=5.4,<7.0
-    - redis-py >=5.0,<7.2
+    - redis-py >=5.0,<8.0
     - pydantic >=2,<3
     - tenacity >=8.2.2
     - ml_dtypes >=0.4.0,<1.0.0
