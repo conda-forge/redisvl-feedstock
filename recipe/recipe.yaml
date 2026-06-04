@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.19.0"
+  version: "0.20.0"
 
 package:
   name: redisvl
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/redisvl/redisvl-${{ version }}.tar.gz
-  sha256: 7841354ceb77a564fd3ff1a1e02427a04f7032b461044d04addadfe3feff928f
+  sha256: 897185019259a6fc31e89920148c60c4c5716e7c2844fd924b85fdbd5fd0953b
 
 build:
   number: 0
